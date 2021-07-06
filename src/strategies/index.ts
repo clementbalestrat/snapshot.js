@@ -23,6 +23,7 @@ import { strategy as uniswap } from './uniswap';
 import { strategy as flashstake } from './flashstake';
 import { strategy as pancake } from './pancake';
 import { strategy as synthetix } from './synthetix';
+import { strategy as synthetixGrants } from './synthetix-grants';
 import { strategy as ctoken } from './ctoken';
 import { strategy as cream } from './cream';
 import { strategy as esd } from './esd';
@@ -142,6 +143,7 @@ export default {
   flashstake,
   pancake,
   synthetix,
+  'synthetix-grants': synthetixGrants,
   ctoken,
   cream,
   'staked-uniswap': stakedUniswap,

@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "synthetix-grants"
+    },
+    "network": "1",
+    "addresses": [
+      "0x099DbFa498d0b7Fbdf8bC6eD9FaF868454022EC2",
+      "0xbF49B454818783D12Bf4f3375ff17C59015e66Cb",
+      "0xF5a701D13Be654a534D14DE8Cd6a328293712405",
+      "0x30CF8aA72C4e69e35E0e48E785176704D6D70C7D",
+      "0x1a207bEefC754735871CEEb4C506686F044B1c41",
+      "0x27Cc4d6bc95b55a3a981BF1F1c7261CDa7bB0931"
+    ],
+    "snapshot": 12643795
+  }
+]
